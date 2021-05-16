@@ -1,5 +1,10 @@
 # GUI_Application_on_an_STM32F7
 - Microcontroller:  STM32F7 series of very high-performance MCUs with Arm® Cortex®-M7 core
+- 3rdParty-Components:
+1. STM Source code
+2. Gnu Make - GNU General Public License v2 or later
+3. Gnu GCC - GNU General Public License v2 or later
+
 - The work of the project: https://youtu.be/u_DeV4EHyiI
 
 - Our Demo running on STM32F746 Discovery Board
