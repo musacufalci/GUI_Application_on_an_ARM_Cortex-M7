@@ -4,7 +4,7 @@ The GUI development is speed-up with the use of the Embedded Wizard’s WYSIWYG 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-- The work of the project and software simulation:  https://youtu.be/u_DeV4EHyiI
+- The work of the project and software simulation: https://youtu.be/HZE3YQk1IFk
 - 
-- GUI Design by: https://www.linkedin.com/in/musacufalci/
+- GUI Design by MUSA ÇUFALCI, musa çufalcı
 
