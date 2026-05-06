@@ -1,13 +1,43 @@
 # GUI Application on an STM32F7
 
 The GUI development is speed-up with the use of the Embedded Wizard’s WYSIWYG editing facility, instant prototyping, simulating and debugging on PC without compiling, linking and flashing to the target MCU. The Embedded Wizard generates pure ANSI-C source code with no further dependencies on any other software stacks or components. The created GUI runs on bare metal or with any RTOS (real-time operating system).
-
-______________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 Embedded Wizard'ın WYSIWYG düzenleme özelliği, anında prototipleme, simülasyon ve hata ayıklama imkanı sayesinde, hedef MCU'ya derleme, bağlama ve flaşlama yapmadan PC üzerinde GUI geliştirme süreci hızlandırılır. Embedded Wizard, başka hiçbir yazılım yığınına veya bileşene bağımlılığı olmayan saf ANSI-C kaynak kodu üretir. Oluşturulan GUI, doğrudan donanım üzerinde veya herhangi bir RTOS (gerçek zamanlı işletim sistemi) ile çalışır.
+
+https://youtu.be/HZE3YQk1IFk
 
 _______________________________________________________________________________________________________________________________________________________________________
 
 - The work of the project and software simulation: https://youtu.be/HZE3YQk1IFk
+
+#embedded
+#embeddedsystems
+#circuitdesign
+#circuit
+#circuittraining
+#electronic
+#electronics
+#electronicengineering
+#internetofthings
+#iot
+#sensors
+#iotsolutions
+#iotdevices
+#iotdevelopment
+#pcbway
+#pcb
+#pcbdesign
+#hardwaredesign
+#electronicsdesign
+#smartdevices
+#engineering
+#engineer
+#hardware
+#software
+#softwaredeveloper
+#engineeringlife 
+#electric 
+#electrical
 
 
