@@ -6,8 +6,6 @@ ________________________________________________________________________________
 
 Embedded Wizard'ın WYSIWYG düzenleme özelliği, anında prototipleme, simülasyon ve hata ayıklama imkanı sayesinde, hedef MCU'ya derleme, bağlama ve flaşlama yapmadan PC üzerinde GUI geliştirme süreci hızlandırılır. Embedded Wizard, başka hiçbir yazılım yığınına veya bileşene bağımlılığı olmayan saf ANSI-C kaynak kodu üretir. Oluşturulan GUI, doğrudan donanım üzerinde veya herhangi bir RTOS (gerçek zamanlı işletim sistemi) ile çalışır.
 
-https://youtu.be/HZE3YQk1IFk
-
 _______________________________________________________________________________________________________________________________________________________________________
 
 - The work of the project and software simulation: https://youtu.be/HZE3YQk1IFk
